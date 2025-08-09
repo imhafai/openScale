@@ -56,3 +56,7 @@ fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
 fastlane/README.md
+
+# Web build outputs
+web/node_modules/
+web/dist/
